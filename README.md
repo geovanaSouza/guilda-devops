@@ -6,6 +6,7 @@ When you're done, you can delete the content in this README and update the file 
 
 ---
 ALteracao1
+Alteracao2
 ## Edit a file
 
 You’ll start by editing this README file to learn how to edit a file in Bitbucket.
