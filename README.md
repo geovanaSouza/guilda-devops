@@ -20,10 +20,6 @@ You’ll start by editing this README file to learn how to edit a file in Bitbuc
 6. Go back to the **Source** page.
 
 ---
-Alteracao 7.1
-Alteracao 7.2
-Alteracao 7.3
-Alteracao 7.4
 ## Create a file
 
 Next, you’ll add a new file to this repository.
