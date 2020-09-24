@@ -19,10 +19,6 @@ You’ll start by editing this README file to learn how to edit a file in Bitbuc
 6. Go back to the **Source** page.
 
 ---
-Alteracao 7.1
-Alteracao 7.2
-Alteracao 7.3
-Alteracao 7.4
 ## Create a file
 
 Next, you’ll add a new file to this repository.
@@ -45,5 +41,5 @@ Use these steps to clone from SourceTree, our client for using the repository co
 2. Now click **Check out in SourceTree**. You may need to create a SourceTree account or log in.
 3. When you see the **Clone New** dialog in SourceTree, update the destination path and name if you’d like to and then click **Clone**.
 4. Open the directory you just created to see your repository’s files.
-
+Alteracao 10
 Now that you're more familiar with your Bitbucket repository, go ahead and add a new file locally. You can [push your change back to Bitbucket with SourceTree](https://confluence.atlassian.com/x/iqyBMg), or you can [add, commit,](https://confluence.atlassian.com/x/8QhODQ) and [push from the command line](https://confluence.atlassian.com/x/NQ0zDQ).
